@@ -24,6 +24,8 @@ CHECK OUT ALL FILES INCLUDED IN A TREE VIEW: [TREE.MD](TREE.md)
 
 <img width="584" height="269" alt="image" src="https://github.com/user-attachments/assets/cb230922-c12b-4fea-8718-40f274bad0af" />
 
+<img width="571" height="409" alt="image" src="https://github.com/user-attachments/assets/028e3dc8-00f5-49de-9cc6-116f953d9c00" />
+
 ---
 
 ## Frequently Asked Questions (FAQ) — CNLeaks
