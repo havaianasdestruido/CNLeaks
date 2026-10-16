@@ -10,6 +10,20 @@ GITHUB DOWNLOAD LINK (.ZIP FILE) [https://github.com/havaianasdestruido/CNLeaks/
 
 CHECK OUT ALL FILES INCLUDED IN A TREE VIEW: [TREE.MD](TREE.md)
 
+<img width="1600" height="755" alt="image" src="https://github.com/user-attachments/assets/e697e602-4a24-4927-bcaa-9f2dd8631974" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/037b3812-036d-4742-a119-6ce6cf9d2c42" />
+
+<img width="1195" height="590" alt="image" src="https://github.com/user-attachments/assets/3e180acb-544b-4b75-94b8-66e3ac91ff20" />
+
+<img width="1193" height="589" alt="image" src="https://github.com/user-attachments/assets/e71e2c48-a9ce-41fa-a87a-0afe77294f0b" />
+
+<img width="713" height="244" alt="image" src="https://github.com/user-attachments/assets/6fcc957c-f70a-49f0-bdbc-3e713baa453d" />
+
+<img width="572" height="143" alt="image" src="https://github.com/user-attachments/assets/4e1f841c-4246-42c8-95f0-ecdadcef13aa" />
+
+<img width="584" height="269" alt="image" src="https://github.com/user-attachments/assets/cb230922-c12b-4fea-8718-40f274bad0af" />
+
 ---
 
 ## Frequently Asked Questions (FAQ) — CNLeaks
