@@ -8,4 +8,4 @@ IF YOU WANT TO DOWNLOAD, LCICK THE GREEN "CODE" BUTTON AND SELECT DOWNLOAD AS ZI
 
 GITHUB DOWNLOAD LINK (.ZIP FILE) [https://github.com/havaianasdestruido/CNLeaks/archive/refs/heads/main.zip](https://github.com/havaianasdestruido/CNLeaks/archive/refs/heads/main.zip)
 
-CHECK OUT ALL FILES INCLUDED IN A TREE VIEW: [TREE.MD](TREE.MD)
+CHECK OUT ALL FILES INCLUDED IN A TREE VIEW: [TREE.MD](TREE.md)
