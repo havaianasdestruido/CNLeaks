@@ -5,3 +5,5 @@ For those who dont want to use torrents...
 CLICK ON THE "FORK" BUTTON AND MAKE A CLONE!!
 
 IF YOU WANT TO DOWNLOAD, LCICK THE GREEN "CODE" BUTTON AND SELECT DOWNLOAD AS ZIP!!!
+
+GITHUB DOWNLOAD LINK (.ZIP FILE) [https://github.com/havaianasdestruido/CNLeaks/archive/refs/heads/main.zip](https://github.com/havaianasdestruido/CNLeaks/archive/refs/heads/main.zip)
